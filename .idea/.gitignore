@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+../IP-COUNTRY-REGION-CITY-SHUFFLED.csv
+../sorted.csv
+../sorted.txt
+*.csv
